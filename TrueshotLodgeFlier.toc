@@ -1,0 +1,7 @@
+## Interface: 100200
+## Version: 1.0.0
+## Title: TrueshotLodgeFlier
+## Notes: Flies the player to Trueshot Lodge with one-click
+## Author: rrezxth
+
+TrueshotLodgeFlier.lua
